@@ -1,6 +1,6 @@
 # Freedom of speech is fundamental to a free society. 
 
-## Censorship must not be tolerated, even when it suits one\'s own ideology.  
+## Censorship must not be tolerated, even when it suits one\'s ideology.  
 
 ## We helped create this issue; we must now join together to fix it.
 
@@ -13,7 +13,7 @@
 3. Discover and/or design uncensored, non-partisan, replacements.
 4. Support non-technical friends and family in this transition.
 
-Known Entities Associated with Censorship:
+### Known Entities Associated with Censorship:
 
 - Google
 - Facebook
