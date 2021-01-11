@@ -21,8 +21,8 @@
 - OS X: [Elementary OS ](https://elementary.io/ "Elementary OS ")
 - Google, Bing: [DuckDuckGo](https://duckduckgo.com/ "DuckDuckGo")
 - WhatsApp: [Signal](https://www.signal.org/), [Gab Chat](https://chat.gab.com/)
-- Twitter: [Gab Trends] (https://trends.gab.com/)
-- YouTube: [Gab TV] (https://tv.gab.com/)
+- Twitter: [Gab Trends](https://trends.gab.com/)
+- YouTube: [Gab TV](https://tv.gab.com/)
 - iOS: ?
 - Android: ?
 - Wikipedia: ?
