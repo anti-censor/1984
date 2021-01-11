@@ -5,9 +5,9 @@
 ## We helped create this issue; we must now join together to fix it.
 
 #### This is not a partisan effort!
-#### Alternatives can be partisan (besides news outlets), so long as they do not censor.
 #### Contributions from all sides are welcome.
-#### If you believe any of the above information to be incorrect, please create an issue.
+#### If you believe any of the below information to be incorrect, please create an issue.
+#### Note: Alternatives can be partisan (besides news outlets), so long as they do not censor.
 
 <br>
 
