@@ -10,8 +10,9 @@
 
 1. Catalog entities associated with censorship (left or right).
 2. Stop using/supporting these entities when and where practical.
-3. Discover and/or design uncensored replacements.
-4. Support non-technical friends and family in this transition.
+3. Leave poor reviews for these entities.
+4. Discover and/or design uncensored replacements.
+5. Support non-technical friends and family in this transition.
 
 ### Known Entities Associated with Censorship and Alternatives:
 
@@ -36,6 +37,6 @@
 TODO
 
 #### This is not a partisian effort!
-#### Alternatives can be partison (besides media outlets), so long as they do not censor.
+#### Alternatives can be partison (besides news outlets), so long as they do not censor.
 #### Contributions from all sides are welcome.
 #### If you believe any of the above information to be incorrect, please create an issue.
