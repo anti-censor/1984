@@ -15,18 +15,18 @@
 
 ### Known Entities Associated with Censorship and Alternatives:
 
-Chrome, Edge: [Dissenter](https://dissenter.com/ "Dissenter") 
-Facebook: [Parler](https://parler.com "Parler"), [Gab](https://gab.com/ "Gab")
-Windows: [Ubuntu](https://ubuntu.com/ "Ubuntu")
-OS X: [Elementary OS ](https://elementary.io/ "Elementary OS ")
-Google, Bing: [DuckDuckGo](https://duckduckgo.com/ "DuckDuckGo")
-iOS: ?
-Android: ?
-Wikipedia: ?
-Reddit: ?
-YouTube: ?
-Instagram: ?
-...
+- Chrome, Edge: [Dissenter](https://dissenter.com/ "Dissenter") 
+- Facebook: [Parler](https://parler.com "Parler"), [Gab](https://gab.com/ "Gab")
+- Windows: [Ubuntu](https://ubuntu.com/ "Ubuntu")
+- OS X: [Elementary OS ](https://elementary.io/ "Elementary OS ")
+- Google, Bing: [DuckDuckGo](https://duckduckgo.com/ "DuckDuckGo")
+- iOS: ?
+- Android: ?
+- Wikipedia: ?
+- Reddit: ?
+- YouTube: ?
+- Instagram: ?
+- ...
 
 ### Censorship Evidence:
 
