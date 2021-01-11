@@ -20,21 +20,22 @@
 - Windows: [Ubuntu](https://ubuntu.com/ "Ubuntu")
 - OS X: [Elementary OS ](https://elementary.io/ "Elementary OS ")
 - Google, Bing: [DuckDuckGo](https://duckduckgo.com/ "DuckDuckGo")
+- WhatsApp: [Signal](https://www.signal.org/), [Gab Chat](https://chat.gab.com/)
+- Twitter: [Gab Trends] (https://trends.gab.com/)
+- YouTube: [Gab TV] (https://tv.gab.com/)
 - iOS: ?
 - Android: ?
 - Wikipedia: ?
 - Reddit: ?
-- YouTube: ?
 - Instagram: ?
+- News: ?
 - ...
 
 ### Censorship Evidence:
 
-
 TODO
 
-
-
-####  This is not a partisian effort!
+#### This is not a partisian effort!
+#### Alternatives can be partison (besides media outlets), so long as they do not censor.
 #### Contributions from all sides are welcome.
 #### If you believe any of the above information to be incorrect, please create an issue.
